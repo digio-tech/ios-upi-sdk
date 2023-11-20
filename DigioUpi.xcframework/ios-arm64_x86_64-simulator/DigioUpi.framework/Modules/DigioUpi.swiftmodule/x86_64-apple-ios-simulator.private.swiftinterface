@@ -1,0 +1,100 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.9 (swiftlang-5.9.0.128.108 clang-1500.0.40.1)
+// swift-module-flags: -target x86_64-apple-ios13.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name DigioUpi
+// swift-module-flags-ignorable: -enable-bare-slash-regex
+import Combine
+import DeveloperToolsSupport
+@_exported import DigioUpi
+import Foundation
+import Swift
+import SwiftUI
+import UIKit
+import _Concurrency
+import _StringProcessing
+import _SwiftConcurrencyShims
+public enum DigioService : Swift.String {
+  case MANDATE
+  case REVERSE_PENNY_DROP
+  public init?(rawValue: Swift.String)
+  public typealias RawValue = Swift.String
+  public var rawValue: Swift.String {
+    get
+  }
+}
+@_hasMissingDesignatedInitializers public class DigioCallback : Foundation.ObservableObject {
+  public static let shared: DigioUpi.DigioCallback
+  @Combine.Published @_projectedValueProperty($transaction) public var transaction: DigioUpi.DigioTransactionStatus? {
+    get
+  }
+  public var $transaction: Combine.Published<DigioUpi.DigioTransactionStatus?>.Publisher {
+    get
+  }
+  @Combine.Published @_projectedValueProperty($transactionEvents) public var transactionEvents: DigioUpi.DigioTransactionEvents? {
+    get
+  }
+  public var $transactionEvents: Combine.Published<DigioUpi.DigioTransactionEvents?>.Publisher {
+    get
+  }
+  public func onSuccess(response: DigioUpi.DigioResponse)
+  public func onFailure(response: DigioUpi.DigioResponse)
+  public func onPartial(response: DigioUpi.DigioResponse)
+  public func onEvent(event: DigioUpi.DigioEventResponse)
+  public typealias ObjectWillChangePublisher = Combine.ObservableObjectPublisher
+  @objc deinit
+}
+public enum DigioEnvironment : Swift.String {
+  case PRODUCTION
+  case SANDBOX
+  public init?(rawValue: Swift.String)
+  public typealias RawValue = Swift.String
+  public var rawValue: Swift.String {
+    get
+  }
+}
+@_hasMissingDesignatedInitializers public class DigioEventResponse {
+  public var action: Swift.String?
+  public var screen: Swift.String?
+  public var description: Swift.String {
+    get
+  }
+  @objc deinit
+}
+public enum DigioTransactionStatus {
+  case success(DigioUpi.DigioResponse)
+  case failure(DigioUpi.DigioResponse)
+  case partial(DigioUpi.DigioResponse)
+}
+public enum DigioTransactionEvents {
+  case onTransactionEvent(DigioUpi.DigioEventResponse)
+}
+@_hasMissingDesignatedInitializers public class DigioUPI {
+  public class Builder {
+    public init()
+    public func setId(id: Swift.String) -> DigioUpi.DigioUPI.Builder
+    public func setEnvironment(environment: DigioUpi.DigioEnvironment) -> DigioUpi.DigioUPI.Builder
+    public func clientKeys(clientId: Swift.String, clientSecret: Swift.String) -> DigioUpi.DigioUPI.Builder
+    public func setFont(fontFamily: Swift.Int?) -> DigioUpi.DigioUPI.Builder
+    public func setServiceType(serviceType: DigioUpi.DigioService) -> DigioUpi.DigioUPI.Builder
+    public func build() throws -> DigioUpi.DigioUPI
+    @objc deinit
+  }
+  public func startDigio()
+  @objc deinit
+}
+@_hasMissingDesignatedInitializers public class DigioResponse {
+  public var id: Swift.String?
+  public var message: Swift.String?
+  public var statusCode: Swift.Int?
+  public var status: Swift.String?
+  public var crash_report: Swift.String?
+  public var description: Swift.String {
+    get
+  }
+  @objc deinit
+}
+extension DigioUpi.DigioService : Swift.Equatable {}
+extension DigioUpi.DigioService : Swift.Hashable {}
+extension DigioUpi.DigioService : Swift.RawRepresentable {}
+extension DigioUpi.DigioEnvironment : Swift.Equatable {}
+extension DigioUpi.DigioEnvironment : Swift.Hashable {}
+extension DigioUpi.DigioEnvironment : Swift.RawRepresentable {}

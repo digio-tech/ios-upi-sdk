@@ -1,0 +1,11 @@
+framework module DigioUpi {
+  umbrella header "DigioUpi.h"
+  export *
+
+  module * { export * }
+}
+
+module DigioUpi.Swift {
+  header "DigioUpi-Swift.h"
+  requires objc
+}
