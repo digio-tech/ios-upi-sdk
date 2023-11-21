@@ -1,11 +1,11 @@
 Pod::Spec.new do |spec|
 
 spec.name         = "DigioUpi"
-spec.version      = "0.0.1"
-spec.summary      = "Digio UPI framework enables seamless integration of Unified Payments Interface (UPI) and Reverse Penny Drop functionality into your app, allowing users/corporates  to create mandate and account verification."
+spec.version      = "0.0.2"
+spec.summary      = "Mandate creation/Recurring payments. Reverse penny drop."
 
 spec.description  = <<-DESC
-Mandate creation/Recurring payments. Reverse penny drop
+Digio UPI framework enables seamless integration of Unified Payments Interface (UPI) and Reverse Penny Drop functionality into your app, allowing users/corporates  to create mandate and account verification.
 DESC
 
 spec.homepage     = "https://github.com/digio-tech/ios-upi-sdk"
