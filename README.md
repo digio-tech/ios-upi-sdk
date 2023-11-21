@@ -1,12 +1,12 @@
 # Digio iOS UPI SDK Integration Guide
-![GitHub release (with filter)](https://img.shields.io/github/v/release/digio-tech/ios-upi-sdk)
-![Cocoapods Version](https://img.shields.io/cocoapods/v/DigioUpi)
+[![GitHub release (with filter)](https://img.shields.io/github/v/release/digio-tech/ios-upi-sdk)](https://github.com/digio-tech/ios-upi-sdk/releases)
+[![Cocoapods Version](https://img.shields.io/cocoapods/v/DigioUpi)](https://cocoapods.org/pods/DigioUpi)
 [![License](https://img.shields.io/badge/License-Apache2.0-green.svg)](https://github.com/digio-tech/upi/blob/main/LICENSE)
 [![Logo](https://img.shields.io/badge/Powered%20by-Digio-2979BF.svg)](https://www.digio.in)
 
 ## Overview
 
-This guide provides step-by-step instructions on how to integrate the Digio UPI SDK into your iOS application. The Digio UPI SDK enables seamless integration of Unified Payments Interface (UPI) functionality into your app, allowing users to make UPI transactions.
+This guide provides step-by-step instructions on how to integrate the Digio UPI SDK into your iOS application. The Digio UPI SDK enables seamless integration of Unified Payments Interface (UPI) functionality into your app, allowing corporate/users to register MANDATE and Reverse Penny Drop for account verfication.
 
 **Note:** The Digio SDK supports iOS version 13.0 and above.
 
