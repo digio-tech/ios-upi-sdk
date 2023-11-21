@@ -1,6 +1,6 @@
 # Digio iOS UPI SDK Integration Guide
-![Github: release](https://img.shields.io/github/v/release/digio-tech/upi)
-[![](https://jitpack.io/v/digio-tech/upi.svg)](https://jitpack.io/#digio-tech/upi)
+![GitHub release (with filter)](https://img.shields.io/github/v/release/digio-tech/ios-upi-sdk)
+![Cocoapods Version](https://img.shields.io/cocoapods/v/DigioUpi)
 [![License](https://img.shields.io/badge/License-Apache2.0-green.svg)](https://github.com/digio-tech/upi/blob/main/LICENSE)
 [![Logo](https://img.shields.io/badge/Powered%20by-Digio-2979BF.svg)](https://www.digio.in)
 
