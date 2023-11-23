@@ -18,11 +18,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		QvKhamVUyBz9kMpBo0WrFpmprjE=
+		bI2263SARkTqW/wYGni/Hr1qF4w=
 		</data>
 		<key>Modules/DigioUpi.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		rKM1YNzkHjC4y0hOSSvW/P/e+Q8=
+		ODNNyG0J1R5CeUz9prPC+DGX4TQ=
 		</data>
 		<key>Modules/DigioUpi.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/DigioUpi.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		oFfzc6RrRKVpo9BKCwoAs6sBX2A=
+		6mPFNK+Ez6prolw4y5Nq7AZFy7o=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -72,7 +72,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/TAJMSoomDnOXy49cmpS5F/uEyfmq2T2f0m3EEXqtyc=
+			+403Z/j4xjKHOdevrsYuFU+oVc6lCE3i8gkV2zBCkZo=
 			</data>
 		</dict>
 		<key>Modules/DigioUpi.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -100,7 +100,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			0alwRx+dkbUvjpG0sc5Vr+uArHqtB6/i47K3kLise/c=
+			59kmxVdah8oImhomzG/DECDifKMZ3dL+z9oHgFFt2Ks=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

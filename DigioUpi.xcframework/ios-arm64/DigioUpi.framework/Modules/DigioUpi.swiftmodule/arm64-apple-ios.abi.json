@@ -6509,7 +6509,7 @@
       "kind": "StringLiteral",
       "offset": 403,
       "length": 7,
-      "value": "\"1.0.0\""
+      "value": "\"1.0.1\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/DigioUPI.swift",

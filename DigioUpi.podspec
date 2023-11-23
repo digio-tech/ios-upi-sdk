@@ -4,9 +4,7 @@ spec.name         = "DigioUpi"
 spec.version      = "1.0.0"
 spec.summary      = "Mandate creation/Recurring payments. Reverse penny drop."
 
-spec.description  = <<-DESC
-Digio UPI framework enables seamless integration of Unified Payments Interface (UPI) and Reverse Penny Drop functionality into your app, allowing users/corporates  to create mandate and account verification.
-DESC
+spec.description  = "Digio UPI framework enables seamless integration of Unified Payments Interface (UPI) and Reverse Penny Drop functionality into your app, allowing users/corporates  to create mandate and account verification."
 
 spec.homepage     = "https://github.com/digio-tech/ios-upi-sdk"
 spec.license      = { :type => "Apache", :file => "LICENSE" }
