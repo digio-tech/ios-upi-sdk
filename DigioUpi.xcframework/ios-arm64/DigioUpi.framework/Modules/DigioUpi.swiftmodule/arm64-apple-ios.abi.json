@@ -2593,708 +2593,673 @@
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
-      "kind": "StringLiteral",
-      "offset": 648,
-      "length": 43,
-      "value": "\"currentState--> \""
-    },
-    {
-      "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
-      "kind": "StringLiteral",
-      "offset": 690,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
       "kind": "FloatLiteral",
-      "offset": 877,
+      "offset": 810,
       "length": 3,
       "value": "0.2"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
       "kind": "BooleanLiteral",
-      "offset": 1175,
+      "offset": 1108,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 1535,
+      "offset": 1468,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
       "kind": "FloatLiteral",
-      "offset": 1571,
+      "offset": 1504,
       "length": 3,
       "value": "1.7"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
       "kind": "StringLiteral",
-      "offset": 1619,
+      "offset": 1552,
       "length": 9,
       "value": "\"#FFFFFF\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 1665,
+      "offset": 1598,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 1722,
+      "offset": 1655,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
       "kind": "StringLiteral",
-      "offset": 2446,
+      "offset": 2379,
       "length": 38,
       "value": "\"App is about to enter the Background\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
-      "kind": "StringLiteral",
-      "offset": 2572,
-      "length": 23,
-      "value": "\"App has become active\""
-    },
-    {
-      "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 3186,
+      "offset": 3080,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
       "kind": "StringLiteral",
-      "offset": 3207,
+      "offset": 3101,
       "length": 12,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
       "kind": "StringLiteral",
-      "offset": 3218,
+      "offset": 3112,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
       "kind": "StringLiteral",
-      "offset": 3255,
+      "offset": 3149,
       "length": 6,
       "value": "\"Lato\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 3269,
+      "offset": 3163,
       "length": 2,
       "value": "14"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
       "kind": "StringLiteral",
-      "offset": 3317,
+      "offset": 3211,
       "length": 9,
       "value": "\"#000000\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 4040,
+      "offset": 3934,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
       "kind": "StringLiteral",
-      "offset": 4175,
+      "offset": 4069,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 4493,
+      "offset": 4387,
       "length": 3,
       "value": "100"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
-      "kind": "StringLiteral",
-      "offset": 4551,
-      "length": 25,
-      "value": "\"exit code \""
-    },
-    {
-      "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
-      "kind": "StringLiteral",
-      "offset": 4575,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
       "kind": "BooleanLiteral",
-      "offset": 4644,
+      "offset": 4481,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 4738,
+      "offset": 4575,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 5078,
+      "offset": 4915,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 5465,
+      "offset": 5302,
       "length": 3,
       "value": "500"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 5469,
+      "offset": 5306,
       "length": 3,
       "value": "502"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
       "kind": "StringLiteral",
-      "offset": 5504,
+      "offset": 5341,
       "length": 41,
       "value": "\"We are facing issue. Please retry again\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
       "kind": "BooleanLiteral",
-      "offset": 5607,
+      "offset": 5444,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 5661,
+      "offset": 5498,
       "length": 3,
       "value": "503"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
       "kind": "StringLiteral",
-      "offset": 5696,
+      "offset": 5533,
       "length": 27,
       "value": "\"Please retry in sometime.\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
       "kind": "BooleanLiteral",
-      "offset": 5785,
+      "offset": 5622,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 5823,
+      "offset": 5660,
       "length": 3,
       "value": "504"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
       "kind": "StringLiteral",
-      "offset": 5858,
+      "offset": 5695,
       "length": 51,
       "value": "\"Time out connection taking too long. Please retry\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
       "kind": "BooleanLiteral",
-      "offset": 5971,
+      "offset": 5808,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 6009,
+      "offset": 5846,
       "length": 3,
       "value": "404"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 6013,
+      "offset": 5850,
       "length": 3,
       "value": "403"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
       "kind": "BooleanLiteral",
-      "offset": 6123,
+      "offset": 5960,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
       "kind": "BooleanLiteral",
-      "offset": 6230,
+      "offset": 6067,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
       "kind": "StringLiteral",
-      "offset": 6541,
+      "offset": 6378,
       "length": 23,
       "value": "\"Transaction cancelled\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 7415,
+      "offset": 7252,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
       "kind": "StringLiteral",
-      "offset": 7448,
+      "offset": 7285,
       "length": 22,
       "value": "\"Verify using UPI App\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
       "kind": "StringLiteral",
-      "offset": 7518,
+      "offset": 7355,
       "length": 6,
       "value": "\"Lato\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 7532,
+      "offset": 7369,
       "length": 2,
       "value": "18"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 7689,
+      "offset": 7526,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
       "kind": "StringLiteral",
-      "offset": 7746,
+      "offset": 7583,
       "length": 36,
       "value": "\"You will be redirected to UPI app.\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
       "kind": "StringLiteral",
-      "offset": 7830,
+      "offset": 7667,
       "length": 6,
       "value": "\"Lato\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 7844,
+      "offset": 7681,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
       "kind": "StringLiteral",
-      "offset": 7905,
+      "offset": 7742,
       "length": 9,
       "value": "\"#6C6C6C\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
       "kind": "StringLiteral",
-      "offset": 8138,
+      "offset": 7975,
       "length": 7,
       "value": "\"close\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
       "kind": "StringLiteral",
-      "offset": 8173,
+      "offset": 8010,
       "length": 23,
       "value": "\"upi.digio.in.DigioUpi\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 8282,
+      "offset": 8119,
       "length": 2,
       "value": "24"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 8294,
+      "offset": 8131,
       "length": 2,
       "value": "24"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 8536,
+      "offset": 8373,
       "length": 2,
       "value": "24"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 8571,
+      "offset": 8408,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 8609,
+      "offset": 8446,
       "length": 2,
       "value": "24"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 8742,
+      "offset": 8579,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 9185,
+      "offset": 9022,
       "length": 3,
       "value": "100"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 9288,
+      "offset": 9125,
       "length": 2,
       "value": "24"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 9323,
+      "offset": 9160,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 9361,
+      "offset": 9198,
       "length": 2,
       "value": "24"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
       "kind": "StringLiteral",
-      "offset": 9469,
+      "offset": 9306,
       "length": 9,
       "value": "\"#FFFFFF\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 9829,
+      "offset": 9666,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 9903,
+      "offset": 9740,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 9958,
+      "offset": 9795,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
       "kind": "StringLiteral",
-      "offset": 10385,
-      "length": 27,
-      "value": "\"UpiList --> app not found\""
+      "offset": 10222,
+      "length": 26,
+      "value": "\"UpiApp --> app not found\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
       "kind": "StringLiteral",
-      "offset": 10664,
+      "offset": 10500,
       "length": 24,
       "value": "\"UPI apps not installed\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 11010,
+      "offset": 10846,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 11065,
+      "offset": 10901,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
       "kind": "StringLiteral",
-      "offset": 11486,
+      "offset": 11322,
       "length": 27,
       "value": "\"UpiList --> app not found\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
       "kind": "StringLiteral",
-      "offset": 11644,
+      "offset": 11480,
       "length": 24,
       "value": "\"UPI apps not installed\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
       "kind": "BooleanLiteral",
-      "offset": 12057,
+      "offset": 11893,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 12132,
+      "offset": 11968,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
       "kind": "StringLiteral",
-      "offset": 12552,
+      "offset": 12388,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
       "kind": "StringLiteral",
-      "offset": 12588,
+      "offset": 12424,
       "length": 6,
       "value": "\"Lato\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 12602,
+      "offset": 12438,
       "length": 2,
       "value": "14"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
       "kind": "BooleanLiteral",
-      "offset": 12687,
+      "offset": 12523,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
       "kind": "BooleanLiteral",
-      "offset": 12867,
+      "offset": 12703,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 12914,
+      "offset": 12750,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 12946,
+      "offset": 12782,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 12972,
+      "offset": 12808,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
       "kind": "StringLiteral",
-      "offset": 13064,
+      "offset": 12900,
       "length": 9,
       "value": "\"#FFFFFF\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 13098,
+      "offset": 12934,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
       "kind": "FloatLiteral",
-      "offset": 13135,
+      "offset": 12971,
       "length": 4,
       "value": "0.91"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
       "kind": "FloatLiteral",
-      "offset": 13148,
+      "offset": 12984,
       "length": 4,
       "value": "0.92"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 13160,
+      "offset": 12996,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 13172,
+      "offset": 13008,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 13178,
+      "offset": 13014,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 13185,
+      "offset": 13021,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 13247,
+      "offset": 13083,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
       "kind": "FloatLiteral",
-      "offset": 13273,
+      "offset": 13109,
       "length": 4,
       "value": "0.25"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
       "kind": "FloatLiteral",
-      "offset": 13310,
+      "offset": 13146,
       "length": 4,
       "value": "0.81"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
       "kind": "FloatLiteral",
-      "offset": 13323,
+      "offset": 13159,
       "length": 4,
       "value": "0.85"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
       "kind": "FloatLiteral",
-      "offset": 13335,
+      "offset": 13171,
       "length": 4,
       "value": "0.92"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
       "kind": "FloatLiteral",
-      "offset": 13353,
+      "offset": 13189,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
       "kind": "StringLiteral",
-      "offset": 13534,
+      "offset": 13370,
       "length": 27,
       "value": "\"https:\/\/ext.digio.in:444\/\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
       "kind": "StringLiteral",
-      "offset": 13593,
-      "length": 97,
-      "value": "\"Bearer QUlNRVY0QkE2QkUyTVJZSTdWVVE3N0hJTzRNUDI3VUc6MjlHWjZHUUk2SkFFT0ROMVA4OTNNSFVESDJNUlRVN1I=\""
+      "offset": 13429,
+      "length": 49,
+      "value": "\"Pass token in base64 formate to see the live UI\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
       "kind": "StringLiteral",
-      "offset": 13715,
+      "offset": 13503,
       "length": 34,
       "value": "\"KID231115160713212IF7XSZ7UJY5RUD\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
       "kind": "StringLiteral",
-      "offset": 13870,
+      "offset": 13658,
       "length": 7,
       "value": "\"1.0.0\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
       "kind": "BooleanLiteral",
-      "offset": 13959,
+      "offset": 13747,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropSheet.swift",
       "kind": "StringLiteral",
-      "offset": 14036,
+      "offset": 13824,
       "length": 28,
       "value": "\"PennyDrop UPISheet Preview\""
     },
@@ -3378,343 +3343,245 @@
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 1386,
-      "length": 19,
-      "value": "\"logo --> \""
-    },
-    {
-      "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropViewModel.swift",
-      "kind": "StringLiteral",
-      "offset": 1404,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropViewModel.swift",
-      "kind": "StringLiteral",
-      "offset": 1433,
+      "offset": 1394,
       "length": 6,
       "value": "\".svg\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 1576,
+      "offset": 1533,
       "length": 6,
       "value": "\".png\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 1627,
-      "length": 15,
-      "value": "\"logo --> \""
-    },
-    {
-      "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropViewModel.swift",
-      "kind": "StringLiteral",
-      "offset": 1641,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropViewModel.swift",
-      "kind": "StringLiteral",
-      "offset": 1887,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropViewModel.swift",
-      "kind": "StringLiteral",
-      "offset": 1911,
-      "length": 8,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropViewModel.swift",
-      "kind": "StringLiteral",
-      "offset": 1918,
+      "offset": 1809,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropViewModel.swift",
       "kind": "Dictionary",
-      "offset": 2073,
+      "offset": 1967,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 2113,
+      "offset": 2007,
       "length": 22,
       "value": "\"callback --> \""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 2134,
+      "offset": 2028,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 2269,
+      "offset": 2163,
       "length": 23,
       "value": "\"UPI app not installed\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 2341,
+      "offset": 2235,
       "length": 17,
       "value": "\"UPI URL invalid\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 2539,
+      "offset": 2433,
       "length": 12,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 2550,
+      "offset": 2444,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 2827,
-      "length": 15,
-      "value": "\"Loading image\""
-    },
-    {
-      "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropViewModel.swift",
-      "kind": "StringLiteral",
-      "offset": 2896,
+      "offset": 2759,
       "length": 54,
       "value": "\"https:\/\/ext.digio.in\/assets\/UpiIntent\/AMAZON_PAY.png\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 3474,
-      "length": 46,
-      "value": "\"ImageError --> \""
-    },
-    {
-      "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropViewModel.swift",
-      "kind": "StringLiteral",
-      "offset": 3519,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropViewModel.swift",
-      "kind": "StringLiteral",
-      "offset": 3570,
+      "offset": 3435,
       "length": 7,
       "value": "\"photo\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 3593,
+      "offset": 3458,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 3605,
+      "offset": 3470,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 3753,
+      "offset": 3618,
       "length": 9,
       "value": "\"Loading\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 3830,
+      "offset": 3695,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 3851,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropViewModel.swift",
-      "kind": "StringLiteral",
-      "offset": 4146,
-      "length": 25,
-      "value": "\"Success --> \""
-    },
-    {
-      "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropViewModel.swift",
-      "kind": "StringLiteral",
-      "offset": 4170,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropViewModel.swift",
-      "kind": "StringLiteral",
-      "offset": 4441,
-      "length": 43,
-      "value": "\"Failure --> \""
-    },
-    {
-      "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropViewModel.swift",
-      "kind": "StringLiteral",
-      "offset": 4467,
-      "length": 1,
-      "value": "\" \""
-    },
-    {
-      "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropViewModel.swift",
-      "kind": "StringLiteral",
-      "offset": 4483,
+      "offset": 3716,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropViewModel.swift",
       "kind": "Array",
-      "offset": 4757,
+      "offset": 4626,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 5754,
+      "offset": 5348,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 5952,
+      "offset": 5431,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 6970,
+      "offset": 5702,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 7013,
+      "offset": 5745,
       "length": 77,
       "value": "\"Awaiting response from bank\nPlease do not press back or close this window.\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 7123,
+      "offset": 5855,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 7205,
+      "offset": 5937,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 7237,
+      "offset": 5969,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 7663,
+      "offset": 6395,
       "length": 9,
       "value": "\"success\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 7893,
+      "offset": 6625,
       "length": 21,
       "value": "\"Verification failed\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 7922,
+      "offset": 6654,
       "length": 3,
       "value": "100"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 8140,
+      "offset": 6872,
       "length": 3,
       "value": "404"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 8231,
+      "offset": 6963,
       "length": 3,
       "value": "404"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 8344,
+      "offset": 7076,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 8718,
+      "offset": 7450,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 8769,
+      "offset": 7501,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 8916,
+      "offset": 7648,
       "length": 9,
       "value": "\"Loading\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/PennyDrop\/DigioPennyDropViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 8991,
+      "offset": 7723,
       "length": 1,
       "value": "3"
     },
@@ -4414,1491 +4281,1365 @@
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPIViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 1155,
+      "offset": 681,
       "length": 9,
       "value": "\"Loading\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPIViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 1227,
+      "offset": 753,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPIViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 1248,
+      "offset": 774,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPIViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 1539,
-      "length": 20,
-      "value": "\"Model---> \""
-    },
-    {
-      "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPIViewModel.swift",
-      "kind": "StringLiteral",
-      "offset": 1558,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPIViewModel.swift",
-      "kind": "StringLiteral",
-      "offset": 1706,
+      "offset": 1234,
       "length": 9,
       "value": "\"partial\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPIViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 1882,
+      "offset": 1410,
       "length": 14,
       "value": "\"auth_success\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPIViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 1899,
+      "offset": 1427,
       "length": 18,
       "value": "\"register_success\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPIViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 2117,
+      "offset": 1645,
       "length": 9,
       "value": "\"Unknown\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPIViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 2134,
+      "offset": 1662,
       "length": 3,
       "value": "100"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPIViewModel.swift",
-      "kind": "StringLiteral",
-      "offset": 2300,
-      "length": 48,
-      "value": "\"Model_error ---> \""
-    },
-    {
-      "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPIViewModel.swift",
-      "kind": "StringLiteral",
-      "offset": 2331,
-      "length": 1,
-      "value": "\" \""
-    },
-    {
-      "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPIViewModel.swift",
-      "kind": "StringLiteral",
-      "offset": 2347,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPIViewModel.swift",
       "kind": "Array",
-      "offset": 2575,
+      "offset": 2105,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPIViewModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 2598,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPIViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 3494,
+      "offset": 2847,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPIViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 3706,
+      "offset": 2930,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPIViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 4833,
+      "offset": 3331,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPIViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 4953,
+      "offset": 3451,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPIViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 5007,
+      "offset": 3505,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPIViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 5120,
+      "offset": 3618,
       "length": 8,
       "value": "\"upi:\/\/\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPIViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 5268,
+      "offset": 3766,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPIViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 5429,
+      "offset": 3927,
       "length": 6,
       "value": "\".svg\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPIViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 5572,
+      "offset": 4070,
       "length": 6,
       "value": "\".png\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPIViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 5706,
-      "length": 47,
-      "value": "\"intent_Url --> \""
-    },
-    {
-      "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPIViewModel.swift",
-      "kind": "StringLiteral",
-      "offset": 5752,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPIViewModel.swift",
-      "kind": "StringLiteral",
-      "offset": 5915,
+      "offset": 4350,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPIViewModel.swift",
       "kind": "Dictionary",
-      "offset": 6125,
+      "offset": 4508,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPIViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 6251,
+      "offset": 4634,
       "length": 23,
       "value": "\"UPI app not installed\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPIViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 6323,
+      "offset": 4706,
       "length": 17,
       "value": "\"UPI URL invalid\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPIViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 6521,
+      "offset": 4904,
       "length": 20,
       "value": "\"Mandate \""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPIViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 6540,
+      "offset": 4923,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPIViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 6855,
+      "offset": 5238,
       "length": 52,
       "value": "\"https:\/\/ext.digio.in\/assets\/UpiIntent\/PHONE_PE.png\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPIViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 7431,
-      "length": 46,
-      "value": "\"ImageError --> \""
-    },
-    {
-      "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPIViewModel.swift",
-      "kind": "StringLiteral",
-      "offset": 7476,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPIViewModel.swift",
-      "kind": "StringLiteral",
-      "offset": 7527,
+      "offset": 5912,
       "length": 7,
       "value": "\"photo\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPIViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 7550,
+      "offset": 5935,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPIViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 7562,
+      "offset": 5947,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPIViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 7693,
+      "offset": 6078,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPIViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 7736,
+      "offset": 6121,
       "length": 77,
       "value": "\"Awaiting response from bank\nPlease do not press back or close this window.\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPIViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 7846,
+      "offset": 6231,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPIViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 7910,
+      "offset": 6295,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPIViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 7931,
+      "offset": 6316,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPIViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 8331,
-      "length": 31,
-      "value": "\"TransactionModel---> \""
-    },
-    {
-      "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPIViewModel.swift",
-      "kind": "StringLiteral",
-      "offset": 8361,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPIViewModel.swift",
-      "kind": "StringLiteral",
-      "offset": 8587,
+      "offset": 6974,
       "length": 9,
       "value": "\"partial\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPIViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 8694,
+      "offset": 7081,
       "length": 9,
       "value": "\"partial\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPIViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 8816,
+      "offset": 7203,
       "length": 14,
       "value": "\"auth_success\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPIViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 8835,
+      "offset": 7222,
       "length": 18,
       "value": "\"register_success\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPIViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 9068,
+      "offset": 7455,
       "length": 9,
       "value": "\"Unknown\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPIViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 9085,
+      "offset": 7472,
       "length": 3,
       "value": "100"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPIViewModel.swift",
-      "kind": "StringLiteral",
-      "offset": 9218,
-      "length": 59,
-      "value": "\"TransactionModel_error ---> \""
-    },
-    {
-      "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPIViewModel.swift",
-      "kind": "StringLiteral",
-      "offset": 9260,
-      "length": 1,
-      "value": "\" \""
-    },
-    {
-      "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPIViewModel.swift",
-      "kind": "StringLiteral",
-      "offset": 9276,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPIViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 9573,
+      "offset": 7962,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPIViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 9618,
+      "offset": 8007,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPIViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 9759,
+      "offset": 8148,
       "length": 9,
       "value": "\"Loading\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPIViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 9831,
+      "offset": 8220,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "FloatLiteral",
-      "offset": 883,
+      "offset": 814,
       "length": 3,
       "value": "0.2"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "BooleanLiteral",
-      "offset": 1179,
+      "offset": 1110,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 1541,
+      "offset": 1472,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "FloatLiteral",
-      "offset": 1577,
+      "offset": 1508,
       "length": 3,
       "value": "1.5"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "StringLiteral",
-      "offset": 1625,
+      "offset": 1556,
       "length": 9,
       "value": "\"#FFFFFF\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 1671,
+      "offset": 1602,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 1728,
+      "offset": 1659,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "StringLiteral",
-      "offset": 2452,
+      "offset": 2383,
       "length": 38,
       "value": "\"App is about to enter the Background\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
-      "kind": "StringLiteral",
-      "offset": 2578,
-      "length": 23,
-      "value": "\"App has become active\""
-    },
-    {
-      "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
-      "kind": "StringLiteral",
-      "offset": 2686,
-      "length": 35,
-      "value": "\"Call Transaction status Api here \""
-    },
-    {
-      "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 3255,
+      "offset": 3133,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "StringLiteral",
-      "offset": 3276,
+      "offset": 3154,
       "length": 12,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "StringLiteral",
-      "offset": 3287,
+      "offset": 3165,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "StringLiteral",
-      "offset": 3324,
+      "offset": 3202,
       "length": 6,
       "value": "\"Lato\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 3338,
+      "offset": 3216,
       "length": 2,
       "value": "14"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "StringLiteral",
-      "offset": 3386,
+      "offset": 3264,
       "length": 9,
       "value": "\"#000000\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "StringLiteral",
-      "offset": 3602,
+      "offset": 3480,
       "length": 9,
       "value": "\"partial\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 4078,
+      "offset": 3956,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "StringLiteral",
-      "offset": 4202,
+      "offset": 4080,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "StringLiteral",
-      "offset": 4517,
+      "offset": 4395,
       "length": 9,
       "value": "\"Failure\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "BooleanLiteral",
-      "offset": 4543,
+      "offset": 4421,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "StringLiteral",
-      "offset": 4621,
+      "offset": 4499,
       "length": 18,
       "value": "\"Calling paritial\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 4706,
+      "offset": 4584,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "StringLiteral",
-      "offset": 4966,
+      "offset": 4844,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 5226,
+      "offset": 5104,
       "length": 3,
       "value": "100"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "BooleanLiteral",
-      "offset": 5297,
+      "offset": 5175,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 5391,
+      "offset": 5269,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 5714,
+      "offset": 5592,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 6088,
+      "offset": 5966,
       "length": 3,
       "value": "500"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 6092,
+      "offset": 5970,
       "length": 3,
       "value": "502"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "StringLiteral",
-      "offset": 6127,
+      "offset": 6005,
       "length": 41,
       "value": "\"We are facing issue. Please retry again\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "BooleanLiteral",
-      "offset": 6230,
+      "offset": 6108,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 6284,
+      "offset": 6162,
       "length": 3,
       "value": "503"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "StringLiteral",
-      "offset": 6319,
+      "offset": 6197,
       "length": 27,
       "value": "\"Please retry in sometime.\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "BooleanLiteral",
-      "offset": 6408,
+      "offset": 6286,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 6446,
+      "offset": 6324,
       "length": 3,
       "value": "504"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "StringLiteral",
-      "offset": 6481,
+      "offset": 6359,
       "length": 51,
       "value": "\"Time out connection taking too long. Please retry\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "BooleanLiteral",
-      "offset": 6594,
+      "offset": 6472,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 6632,
+      "offset": 6510,
       "length": 3,
       "value": "404"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 6636,
+      "offset": 6514,
       "length": 3,
       "value": "403"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "BooleanLiteral",
-      "offset": 6746,
+      "offset": 6624,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "BooleanLiteral",
-      "offset": 6853,
+      "offset": 6731,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "StringLiteral",
-      "offset": 6948,
-      "length": 11,
-      "value": "\"Cancelled\""
-    },
-    {
-      "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
-      "kind": "StringLiteral",
-      "offset": 7203,
+      "offset": 7042,
       "length": 23,
       "value": "\"Transaction cancelled\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "StringLiteral",
-      "offset": 8145,
+      "offset": 7984,
       "length": 16,
       "value": "\"Create Mandate\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "StringLiteral",
-      "offset": 8209,
+      "offset": 8048,
       "length": 6,
       "value": "\"Lato\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 8223,
+      "offset": 8062,
       "length": 2,
       "value": "18"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "StringLiteral",
-      "offset": 8360,
+      "offset": 8199,
       "length": 9,
       "value": "\"Purpose\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "StringLiteral",
-      "offset": 8417,
+      "offset": 8256,
       "length": 6,
       "value": "\"Lato\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 8431,
+      "offset": 8270,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "StringLiteral",
-      "offset": 8491,
+      "offset": 8330,
       "length": 9,
       "value": "\"#6C6C6C\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 8546,
+      "offset": 8385,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "StringLiteral",
-      "offset": 8625,
+      "offset": 8464,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "StringLiteral",
-      "offset": 8675,
+      "offset": 8514,
       "length": 6,
       "value": "\"Lato\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 8689,
+      "offset": 8528,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "StringLiteral",
-      "offset": 8749,
+      "offset": 8588,
       "length": 9,
       "value": "\"#000000\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "StringLiteral",
-      "offset": 8840,
+      "offset": 8679,
       "length": 20,
       "value": "\"Start and End date\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "StringLiteral",
-      "offset": 8908,
+      "offset": 8747,
       "length": 6,
       "value": "\"Lato\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 8922,
+      "offset": 8761,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "StringLiteral",
-      "offset": 8982,
+      "offset": 8821,
       "length": 9,
       "value": "\"#6C6C6C\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 9036,
+      "offset": 8875,
       "length": 3,
       "value": "164"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 9108,
+      "offset": 8947,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "StringLiteral",
-      "offset": 9165,
+      "offset": 9004,
       "length": 115,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "StringLiteral",
-      "offset": 9217,
+      "offset": 9056,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "StringLiteral",
-      "offset": 9221,
+      "offset": 9060,
       "length": 1,
       "value": "\" - \""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "StringLiteral",
-      "offset": 9275,
+      "offset": 9114,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "StringLiteral",
-      "offset": 9279,
+      "offset": 9118,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "StringLiteral",
-      "offset": 9328,
+      "offset": 9167,
       "length": 6,
       "value": "\"Lato\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 9342,
+      "offset": 9181,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "StringLiteral",
-      "offset": 9402,
+      "offset": 9241,
       "length": 9,
       "value": "\"#000000\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "StringLiteral",
-      "offset": 9637,
+      "offset": 9476,
       "length": 7,
       "value": "\"close\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "StringLiteral",
-      "offset": 9672,
+      "offset": 9511,
       "length": 23,
       "value": "\"upi.digio.in.DigioUpi\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 9781,
+      "offset": 9620,
       "length": 2,
       "value": "24"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 9793,
+      "offset": 9632,
       "length": 2,
       "value": "24"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "StringLiteral",
-      "offset": 9990,
+      "offset": 9829,
       "length": 24,
       "value": "\"Upto Maximum amount of\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "StringLiteral",
-      "offset": 10062,
+      "offset": 9901,
       "length": 6,
       "value": "\"Lato\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 10076,
+      "offset": 9915,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "StringLiteral",
-      "offset": 10199,
+      "offset": 10038,
       "length": 9,
       "value": "\"#6C6C6C\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 10253,
+      "offset": 10092,
       "length": 3,
       "value": "153"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 10326,
+      "offset": 10165,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "StringLiteral",
-      "offset": 10384,
+      "offset": 10223,
       "length": 56,
       "value": "\"₹\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 10418,
+      "offset": 10257,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "StringLiteral",
-      "offset": 10432,
+      "offset": 10271,
       "length": 6,
       "value": "\"%.2f\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "StringLiteral",
-      "offset": 10439,
+      "offset": 10278,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "StringLiteral",
-      "offset": 10488,
+      "offset": 10327,
       "length": 6,
       "value": "\"Lato\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 10502,
+      "offset": 10341,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "StringLiteral",
-      "offset": 10562,
+      "offset": 10401,
       "length": 9,
       "value": "\"#000000\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "StringLiteral",
-      "offset": 10628,
+      "offset": 10467,
       "length": 17,
       "value": "\"Debit Frequency\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "StringLiteral",
-      "offset": 10693,
+      "offset": 10532,
       "length": 6,
       "value": "\"Lato\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 10707,
+      "offset": 10546,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "StringLiteral",
-      "offset": 10830,
+      "offset": 10669,
       "length": 9,
       "value": "\"#6C6C6C\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 10884,
+      "offset": 10723,
       "length": 3,
       "value": "153"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 10957,
+      "offset": 10796,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "StringLiteral",
-      "offset": 11037,
+      "offset": 10876,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "StringLiteral",
-      "offset": 11087,
+      "offset": 10926,
       "length": 6,
       "value": "\"Lato\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 11101,
+      "offset": 10940,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "StringLiteral",
-      "offset": 11161,
+      "offset": 11000,
       "length": 9,
       "value": "\"#000000\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 11272,
+      "offset": 11111,
       "length": 2,
       "value": "24"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 11307,
+      "offset": 11146,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 11345,
+      "offset": 11184,
       "length": 2,
       "value": "24"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "StringLiteral",
-      "offset": 11388,
+      "offset": 11227,
       "length": 9,
       "value": "\"#F0F2FF\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 11575,
+      "offset": 11414,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "StringLiteral",
-      "offset": 11605,
+      "offset": 11444,
       "length": 21,
       "value": "\"Setup using UPI App\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "StringLiteral",
-      "offset": 11670,
+      "offset": 11509,
       "length": 6,
       "value": "\"Lato\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 11684,
+      "offset": 11523,
       "length": 2,
       "value": "18"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "StringLiteral",
-      "offset": 11836,
+      "offset": 11675,
       "length": 36,
       "value": "\"You will be redirected to UPI app.\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "StringLiteral",
-      "offset": 11916,
+      "offset": 11755,
       "length": 6,
       "value": "\"Lato\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 11930,
+      "offset": 11769,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "StringLiteral",
-      "offset": 11987,
+      "offset": 11826,
       "length": 9,
       "value": "\"#6C6C6C\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 12419,
+      "offset": 12258,
       "length": 3,
       "value": "100"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 12522,
+      "offset": 12361,
       "length": 2,
       "value": "24"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 12557,
+      "offset": 12396,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 12595,
+      "offset": 12434,
       "length": 2,
       "value": "24"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "StringLiteral",
-      "offset": 12703,
+      "offset": 12542,
       "length": 9,
       "value": "\"#FFFFFF\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "BooleanLiteral",
-      "offset": 12886,
+      "offset": 12725,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 13103,
+      "offset": 12942,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 13158,
+      "offset": 12997,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "StringLiteral",
-      "offset": 13570,
+      "offset": 13409,
       "length": 27,
       "value": "\"UpiList --> app not found\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "StringLiteral",
-      "offset": 13728,
+      "offset": 13567,
       "length": 24,
       "value": "\"UPI apps not installed\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 14102,
+      "offset": 13941,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 14176,
+      "offset": 14015,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 14231,
+      "offset": 14070,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "StringLiteral",
-      "offset": 14649,
-      "length": 27,
-      "value": "\"UpiList --> app not found\""
+      "offset": 14488,
+      "length": 26,
+      "value": "\"UpiApp --> app not found\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "StringLiteral",
-      "offset": 14928,
+      "offset": 14766,
       "length": 24,
       "value": "\"UPI apps not installed\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "BooleanLiteral",
-      "offset": 15333,
+      "offset": 15171,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 15408,
+      "offset": 15246,
       "length": 2,
       "value": "15"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 15994,
+      "offset": 15658,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "StringLiteral",
-      "offset": 16089,
+      "offset": 15753,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "StringLiteral",
-      "offset": 16125,
+      "offset": 15789,
       "length": 6,
       "value": "\"Lato\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 16139,
+      "offset": 15803,
       "length": 2,
       "value": "14"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "BooleanLiteral",
-      "offset": 16224,
+      "offset": 15888,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "BooleanLiteral",
-      "offset": 16406,
+      "offset": 16069,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 16453,
+      "offset": 16116,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 16485,
+      "offset": 16148,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 16511,
+      "offset": 16174,
       "length": 2,
       "value": "45"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "StringLiteral",
-      "offset": 16638,
+      "offset": 16301,
       "length": 9,
       "value": "\"#FFFFFF\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 16672,
+      "offset": 16335,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "FloatLiteral",
-      "offset": 16709,
+      "offset": 16372,
       "length": 4,
       "value": "0.91"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "FloatLiteral",
-      "offset": 16722,
+      "offset": 16385,
       "length": 4,
       "value": "0.92"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 16734,
+      "offset": 16397,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 16746,
+      "offset": 16409,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 16752,
+      "offset": 16415,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 16759,
+      "offset": 16422,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "IntegerLiteral",
-      "offset": 16821,
+      "offset": 16484,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "FloatLiteral",
-      "offset": 16847,
+      "offset": 16510,
       "length": 4,
       "value": "0.25"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "FloatLiteral",
-      "offset": 16884,
+      "offset": 16547,
       "length": 4,
       "value": "0.81"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "FloatLiteral",
-      "offset": 16897,
+      "offset": 16560,
       "length": 4,
       "value": "0.85"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "FloatLiteral",
-      "offset": 16909,
+      "offset": 16572,
       "length": 4,
       "value": "0.92"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "FloatLiteral",
-      "offset": 16927,
+      "offset": 16590,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "StringLiteral",
-      "offset": 17109,
+      "offset": 16772,
       "length": 27,
       "value": "\"https:\/\/ext.digio.in:444\/\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "StringLiteral",
-      "offset": 17168,
-      "length": 97,
-      "value": "\"Bearer QUlNRVY0QkE2QkUyTVJZSTdWVVE3N0hJTzRNUDI3VUc6MjlHWjZHUUk2SkFFT0ROMVA4OTNNSFVESDJNUlRVN1I=\""
+      "offset": 16831,
+      "length": 49,
+      "value": "\"Pass token in base64 formate to see the live UI\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "StringLiteral",
-      "offset": 17290,
+      "offset": 16905,
       "length": 35,
       "value": "\"ENA231113162735230DM41MOR3ZH3TBUP\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "StringLiteral",
-      "offset": 17435,
+      "offset": 17050,
       "length": 7,
       "value": "\"1.0.0\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "BooleanLiteral",
-      "offset": 17525,
+      "offset": 17140,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/MandateUpi\/DigioMandateUPISheet.swift",
       "kind": "StringLiteral",
-      "offset": 17586,
+      "offset": 17201,
       "length": 26,
       "value": "\"Mandate UPISheet Preview\""
     },
@@ -6101,105 +5842,49 @@
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/NetworkConfig\/NetworkClient.swift",
       "kind": "StringLiteral",
-      "offset": 1028,
+      "offset": 865,
       "length": 15,
       "value": "\"Authorization\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/NetworkConfig\/NetworkClient.swift",
       "kind": "StringLiteral",
-      "offset": 1099,
+      "offset": 936,
       "length": 17,
       "value": "\"IOS_SDK_VERSION\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/NetworkConfig\/NetworkClient.swift",
-      "kind": "StringLiteral",
-      "offset": 1195,
-      "length": 100,
-      "value": "\"Request--> \""
-    },
-    {
-      "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/NetworkConfig\/NetworkClient.swift",
-      "kind": "StringLiteral",
-      "offset": 1228,
-      "length": 1,
-      "value": "\" \""
-    },
-    {
-      "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/NetworkConfig\/NetworkClient.swift",
-      "kind": "StringLiteral",
-      "offset": 1239,
-      "length": 1,
-      "value": "\" \n Headers \""
-    },
-    {
-      "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/NetworkConfig\/NetworkClient.swift",
-      "kind": "StringLiteral",
-      "offset": 1294,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/NetworkConfig\/NetworkClient.swift",
-      "kind": "StringLiteral",
-      "offset": 1571,
-      "length": 77,
-      "value": "\"Inside1_error--> \""
-    },
-    {
-      "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/NetworkConfig\/NetworkClient.swift",
-      "kind": "StringLiteral",
-      "offset": 1602,
-      "length": 1,
-      "value": "\" \""
-    },
-    {
-      "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/NetworkConfig\/NetworkClient.swift",
-      "kind": "StringLiteral",
-      "offset": 1618,
-      "length": 1,
-      "value": "\" \""
-    },
-    {
-      "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/NetworkConfig\/NetworkClient.swift",
-      "kind": "StringLiteral",
-      "offset": 1646,
-      "length": 2,
-      "value": "\" \""
-    },
-    {
-      "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/NetworkConfig\/NetworkClient.swift",
       "kind": "IntegerLiteral",
-      "offset": 1966,
+      "offset": 1807,
       "length": 3,
       "value": "200"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/NetworkConfig\/NetworkClient.swift",
       "kind": "IntegerLiteral",
-      "offset": 2298,
+      "offset": 2139,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/NetworkConfig\/NetworkClient.swift",
       "kind": "StringLiteral",
-      "offset": 2590,
+      "offset": 2359,
       "length": 9,
       "value": "\"Unknown\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/NetworkConfig\/NetworkClient.swift",
       "kind": "IntegerLiteral",
-      "offset": 2635,
+      "offset": 2404,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/NetworkConfig\/NetworkClient.swift",
       "kind": "IntegerLiteral",
-      "offset": 2841,
+      "offset": 2610,
       "length": 1,
       "value": "0"
     },
@@ -6213,7 +5898,7 @@
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/DigioPaymentView.swift",
       "kind": "StringLiteral",
-      "offset": 711,
+      "offset": 706,
       "length": 36,
       "value": "\"Unknown service has been provided.\""
     },
@@ -6437,245 +6122,245 @@
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/CommonView\/CommonView.swift",
       "kind": "IntegerLiteral",
-      "offset": 3238,
+      "offset": 3206,
       "length": 3,
       "value": "100"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/CommonView\/CommonView.swift",
       "kind": "IntegerLiteral",
-      "offset": 3251,
+      "offset": 3219,
       "length": 3,
       "value": "100"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/CommonView\/CommonView.swift",
       "kind": "StringLiteral",
-      "offset": 3299,
+      "offset": 3267,
       "length": 9,
       "value": "\"Success\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/CommonView\/CommonView.swift",
       "kind": "StringLiteral",
-      "offset": 3385,
+      "offset": 3353,
       "length": 6,
       "value": "\"Lato\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/CommonView\/CommonView.swift",
       "kind": "IntegerLiteral",
-      "offset": 3399,
+      "offset": 3367,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/CommonView\/CommonView.swift",
       "kind": "IntegerLiteral",
-      "offset": 3484,
+      "offset": 3452,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/CommonView\/CommonView.swift",
       "kind": "IntegerLiteral",
-      "offset": 3737,
+      "offset": 3705,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/CommonView\/CommonView.swift",
       "kind": "StringLiteral",
-      "offset": 3764,
+      "offset": 3732,
       "length": 6,
       "value": "\"npci\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/CommonView\/CommonView.swift",
       "kind": "StringLiteral",
-      "offset": 3798,
+      "offset": 3766,
       "length": 23,
       "value": "\"upi.digio.in.DigioUpi\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/CommonView\/CommonView.swift",
       "kind": "StringLiteral",
-      "offset": 3846,
+      "offset": 3814,
       "length": 5,
       "value": "\"upi\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/CommonView\/CommonView.swift",
       "kind": "StringLiteral",
-      "offset": 3879,
+      "offset": 3847,
       "length": 23,
       "value": "\"upi.digio.in.DigioUpi\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/CommonView\/CommonView.swift",
       "kind": "StringLiteral",
-      "offset": 4002,
+      "offset": 3970,
       "length": 118,
       "value": "\"I hereby authorize \""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/CommonView\/CommonView.swift",
       "kind": "StringLiteral",
-      "offset": 4043,
+      "offset": 4011,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/CommonView\/CommonView.swift",
       "kind": "StringLiteral",
-      "offset": 4046,
+      "offset": 4014,
       "length": 2,
       "value": "\" to Debit my Bank account, as per the \nmentioned mandate and UPI debits.\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/CommonView\/CommonView.swift",
       "kind": "StringLiteral",
-      "offset": 4154,
+      "offset": 4122,
       "length": 6,
       "value": "\"Lato\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/CommonView\/CommonView.swift",
       "kind": "IntegerLiteral",
-      "offset": 4168,
+      "offset": 4136,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/CommonView\/CommonView.swift",
       "kind": "StringLiteral",
-      "offset": 4277,
+      "offset": 4245,
       "length": 9,
       "value": "\"#6C6C6C\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/CommonView\/CommonView.swift",
       "kind": "IntegerLiteral",
-      "offset": 4380,
+      "offset": 4348,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/CommonView\/CommonView.swift",
       "kind": "FloatLiteral",
-      "offset": 4427,
+      "offset": 4395,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/CommonView\/CommonView.swift",
       "kind": "FloatLiteral",
-      "offset": 4433,
+      "offset": 4401,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/CommonView\/CommonView.swift",
       "kind": "IntegerLiteral",
-      "offset": 4542,
+      "offset": 4510,
       "length": 3,
       "value": "327"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/CommonView\/CommonView.swift",
       "kind": "FloatLiteral",
-      "offset": 4555,
+      "offset": 4523,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/CommonView\/CommonView.swift",
       "kind": "StringLiteral",
-      "offset": 4616,
+      "offset": 4584,
       "length": 9,
       "value": "\"#E0E7F1\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/CommonView\/CommonView.swift",
       "kind": "IntegerLiteral",
-      "offset": 4656,
+      "offset": 4624,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/CommonView\/CommonView.swift",
       "kind": "IntegerLiteral",
-      "offset": 4897,
+      "offset": 4865,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/CommonView\/CommonView.swift",
       "kind": "StringLiteral",
-      "offset": 4924,
+      "offset": 4892,
       "length": 6,
       "value": "\"npci\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/CommonView\/CommonView.swift",
       "kind": "StringLiteral",
-      "offset": 4958,
+      "offset": 4926,
       "length": 23,
       "value": "\"upi.digio.in.DigioUpi\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/CommonView\/CommonView.swift",
       "kind": "StringLiteral",
-      "offset": 5006,
+      "offset": 4974,
       "length": 5,
       "value": "\"upi\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/CommonView\/CommonView.swift",
       "kind": "StringLiteral",
-      "offset": 5039,
+      "offset": 5007,
       "length": 23,
       "value": "\"upi.digio.in.DigioUpi\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/CommonView\/CommonView.swift",
       "kind": "IntegerLiteral",
-      "offset": 5219,
+      "offset": 5187,
       "length": 3,
       "value": "327"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/CommonView\/CommonView.swift",
       "kind": "FloatLiteral",
-      "offset": 5232,
+      "offset": 5200,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/CommonView\/CommonView.swift",
       "kind": "StringLiteral",
-      "offset": 5293,
+      "offset": 5261,
       "length": 9,
       "value": "\"#E0E7F1\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/CommonView\/CommonView.swift",
       "kind": "IntegerLiteral",
-      "offset": 5333,
+      "offset": 5301,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/CommonView\/CommonView.swift",
       "kind": "BooleanLiteral",
-      "offset": 5565,
+      "offset": 5533,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/View\/CommonView\/CommonView.swift",
       "kind": "BooleanLiteral",
-      "offset": 5939,
+      "offset": 5907,
       "length": 4,
       "value": "true"
     },
@@ -6863,52 +6548,31 @@
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/DigioUPI.swift",
-      "kind": "StringLiteral",
-      "offset": 3347,
-      "length": 22,
-      "value": "\"calling startDigio()\""
-    },
-    {
-      "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/DigioUPI.swift",
       "kind": "BooleanLiteral",
-      "offset": 3561,
+      "offset": 3514,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/DigioUPI.swift",
       "kind": "BooleanLiteral",
-      "offset": 3769,
+      "offset": 3722,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/DigioUPI.swift",
       "kind": "StringLiteral",
-      "offset": 3832,
+      "offset": 3785,
       "length": 24,
       "value": "\"dismissView calling...\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/DigioUPI.swift",
       "kind": "BooleanLiteral",
-      "offset": 3940,
+      "offset": 3893,
       "length": 4,
       "value": "true"
-    },
-    {
-      "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/Data\/NetworkRequest\/ImageRequest.swift",
-      "kind": "StringLiteral",
-      "offset": 410,
-      "length": 26,
-      "value": "\"errorDecode--> \""
-    },
-    {
-      "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/Data\/NetworkRequest\/ImageRequest.swift",
-      "kind": "StringLiteral",
-      "offset": 435,
-      "length": 2,
-      "value": "\"\""
     },
     {
       "filePath": "\/Users\/akash\/Digio_Projects\/upi-native-ios-sdk\/DigioUpi\/Data\/Remote\/RemoteServices.swift",

@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
 
 spec.name         = "DigioUpi"
-spec.version      = "0.0.2"
+spec.version      = "1.0.0"
 spec.summary      = "Mandate creation/Recurring payments. Reverse penny drop."
 
 spec.description  = <<-DESC

@@ -22,7 +22,7 @@
 		</data>
 		<key>Modules/DigioUpi.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		GRyyW4jAc+5G2m/q4SEyD38eVvA=
+		rKM1YNzkHjC4y0hOSSvW/P/e+Q8=
 		</data>
 		<key>Modules/DigioUpi.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/DigioUpi.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		ncJLV6hUu8zxet3Tcx2p3HQe/u0=
+		oFfzc6RrRKVpo9BKCwoAs6sBX2A=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -72,7 +72,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			sAZI5Yy+rOkpuhxknGwtzX6DN/lQENFMDsPCC5xVah4=
+			/TAJMSoomDnOXy49cmpS5F/uEyfmq2T2f0m3EEXqtyc=
 			</data>
 		</dict>
 		<key>Modules/DigioUpi.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -100,7 +100,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			iUhDtIBeuAXfUGuakhYi5uhN8oIUeJ4T+YeXAfbWFoE=
+			0alwRx+dkbUvjpG0sc5Vr+uArHqtB6/i47K3kLise/c=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
